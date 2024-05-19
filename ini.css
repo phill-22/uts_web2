@@ -1,0 +1,29 @@
+body {
+  font-size: medium;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 480px;
+  margin: auto;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td {
+  padding: 8px 12px;
+}
+
+td > ul {
+  padding-left: 16px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.card {
+  border: 1px solid black;
+  padding: 25px;
+  margin: 20px;
+  font-size: 12px;
+}
